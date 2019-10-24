@@ -1,2 +1,3 @@
-# DevOps-HelloWorld
-My code for DevOps CICD project
+# maven-project
+
+Simple Maven Project
